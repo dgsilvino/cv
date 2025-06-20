@@ -1,4 +1,4 @@
-# Projeto: Currículo Web Interativo
+# Projeto: Currículo Online
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -10,13 +10,12 @@
 
 Este projeto é a minha apresentação profissional em formato de página web. É um currículo online, interativo e responsivo, construído para ser uma demonstração prática das minhas habilidades em desenvolvimento front-end.
 
-O layout é baseado no template W3.CSS, mas foi customizado com uma seção de projetos dinâmica e um seletor de tema (Light/Dark Mode) para melhorar a experiência do usuário.
+O layout é baseado no template W3.CSS, mas foi customizado com uma seção de projetos dinâmica para melhorar a experiência do usuário.
 
 ## ✨ Features
 
 -   **Design Limpo e Profissional:** Layout claro e de fácil leitura.
 -   **Seção de Projetos:** Uma vitrine com links diretos para os meus principais trabalhos no GitHub.
--   **Seletor de Tema (Light/Dark):** Um botão que permite ao usuário alternar entre o tema claro e escuro, com a preferência salva no navegador via `localStorage`.
 -   **Totalmente Responsivo:** Adaptável a desktops, tablets e dispositivos móveis.
 
 ## 🚀 Como Visualizar
